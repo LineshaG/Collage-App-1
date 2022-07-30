@@ -1,0 +1,11 @@
+body
+{
+    color: black;
+    background-image: linear-gradient(to bottom right, rgb(154, 77, 255), rgb(255, 255, 255), rgb(0, 191, 255));
+}
+
+#image
+{
+    width: 110px;
+    height: 90px;
+}
